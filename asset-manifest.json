@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/AllenZhang-yz/EHG-codetest/static/css/main.29a4e4e6.chunk.css",
-    "main.js": "/AllenZhang-yz/EHG-codetest/static/js/main.25402441.chunk.js",
-    "main.js.map": "/AllenZhang-yz/EHG-codetest/static/js/main.25402441.chunk.js.map",
-    "runtime-main.js": "/AllenZhang-yz/EHG-codetest/static/js/runtime-main.68740cdc.js",
-    "runtime-main.js.map": "/AllenZhang-yz/EHG-codetest/static/js/runtime-main.68740cdc.js.map",
-    "static/js/2.ca00221b.chunk.js": "/AllenZhang-yz/EHG-codetest/static/js/2.ca00221b.chunk.js",
-    "static/js/2.ca00221b.chunk.js.map": "/AllenZhang-yz/EHG-codetest/static/js/2.ca00221b.chunk.js.map",
-    "static/js/3.4c64057f.chunk.js": "/AllenZhang-yz/EHG-codetest/static/js/3.4c64057f.chunk.js",
-    "static/js/3.4c64057f.chunk.js.map": "/AllenZhang-yz/EHG-codetest/static/js/3.4c64057f.chunk.js.map",
-    "index.html": "/AllenZhang-yz/EHG-codetest/index.html",
-    "static/css/main.29a4e4e6.chunk.css.map": "/AllenZhang-yz/EHG-codetest/static/css/main.29a4e4e6.chunk.css.map",
-    "static/js/2.ca00221b.chunk.js.LICENSE.txt": "/AllenZhang-yz/EHG-codetest/static/js/2.ca00221b.chunk.js.LICENSE.txt"
+    "main.css": "/EHG-codetest/static/css/main.29a4e4e6.chunk.css",
+    "main.js": "/EHG-codetest/static/js/main.25402441.chunk.js",
+    "main.js.map": "/EHG-codetest/static/js/main.25402441.chunk.js.map",
+    "runtime-main.js": "/EHG-codetest/static/js/runtime-main.9b4efcf8.js",
+    "runtime-main.js.map": "/EHG-codetest/static/js/runtime-main.9b4efcf8.js.map",
+    "static/js/2.ca00221b.chunk.js": "/EHG-codetest/static/js/2.ca00221b.chunk.js",
+    "static/js/2.ca00221b.chunk.js.map": "/EHG-codetest/static/js/2.ca00221b.chunk.js.map",
+    "static/js/3.4c64057f.chunk.js": "/EHG-codetest/static/js/3.4c64057f.chunk.js",
+    "static/js/3.4c64057f.chunk.js.map": "/EHG-codetest/static/js/3.4c64057f.chunk.js.map",
+    "index.html": "/EHG-codetest/index.html",
+    "static/css/main.29a4e4e6.chunk.css.map": "/EHG-codetest/static/css/main.29a4e4e6.chunk.css.map",
+    "static/js/2.ca00221b.chunk.js.LICENSE.txt": "/EHG-codetest/static/js/2.ca00221b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.68740cdc.js",
+    "static/js/runtime-main.9b4efcf8.js",
     "static/js/2.ca00221b.chunk.js",
     "static/css/main.29a4e4e6.chunk.css",
     "static/js/main.25402441.chunk.js"
